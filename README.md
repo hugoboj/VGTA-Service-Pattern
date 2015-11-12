@@ -1,0 +1,2 @@
+# VGTA-Service-Pattern
+template
